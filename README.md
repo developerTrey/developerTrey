@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @developerTrey
 - 👀 I’m interested in ...JavaScript, SQL, Python
 - 🌱 I’m currently learning ...JavaScript
-- 💞️ I’m looking to collaborate on ...future projects in SQL
+- 💞️ I’m looking to collaborate on ...future projects in Javascript
 - 📫 How to reach me ...
 
 <!---
